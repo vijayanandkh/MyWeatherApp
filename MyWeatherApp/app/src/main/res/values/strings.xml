@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyWeatherApp</string>
+    <string name="welcome_to_weather">Welcome to Weather Info!</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="get_weather_forecast_of_coming_days">Get Weather Forecast of coming days</string>
+    <string name="weather_forecast_of_days">Forecast of coming days</string>
+    <string name="get_weather_info">Get Weather Information</string>
+</resources>
